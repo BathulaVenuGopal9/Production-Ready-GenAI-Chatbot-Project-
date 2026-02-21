@@ -152,7 +152,7 @@ sudo systemctl status ai-career
 
 👨‍💻 Author
 
-Name: Your Name
+Name: BATHULA VENU GOPAL
 Project: AI Career Advisor Chatbot
 Deployment: AWS Cloud
 Year: 2026
